@@ -13,4 +13,3 @@ It uses a Python Flask backend, SQLite for local storage, and a simple HTML/CSS/
 1. Clone the repo:
    ```bash
    git clone https://github.com/subedibibek0987-creator/Fan-X-ny----myscearch-engine
-   cd fanxny/backend
